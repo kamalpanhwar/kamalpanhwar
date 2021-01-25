@@ -29,4 +29,4 @@
 - 📫 How to reach me: @panhwar
 - 😄 Pronouns: Him/They
 - ⚡ Fun fact: I ♥️ Ruby
-
+- 📄 [My Linkedin profile](https://www.linkedin.com/in/kamalpanhwar/) You can add me
