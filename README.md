@@ -1,0 +1,22 @@
+### Hi there 👋
+- 🔭 I’m currently working on Project of LetsBuild assigned by Embrace-it
+- 🌱 I’m currently learning Stimulus/ReactJS
+- 👯 I’m looking to collaborate on Projects of Ruby on Rails that helps people and humanity
+- 🤔 I’m looking for help with learning Architecture, Devops and Critical things for high intensive apps
+- 🙏🏽Technologies I worked on
+  - 🌺 Ruby and Ruby on Rails
+  - 🗄 Database Postgresq, mysql, mongodb, Redis, Influxdb, 
+  - 📞 Telephone system Asterisk
+  - 🎛 OpenSip
+  - ✍️  Editor Vim and Neovim
+  - 🖥   I us eM ac
+  - 🌋 Tailwindcss
+  - ⚙️ StimulusJs
+  - ⛏ PHP
+  - 💾 Github
+  - ⚓️ Docker
+- 💬 Ask me about Ruby and Ruby on Rails
+- 📫 How to reach me: @panhwar
+- 😄 Pronouns: Him/They
+- ⚡ Fun fact: I ♥️ Ruby
+
