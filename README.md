@@ -9,7 +9,7 @@
   - 📞 Telephone system Asterisk
   - 🎛 OpenSip
   - ✍️  Editor Vim and Neovim
-  - 🖥   I us eM ac
+  - 🖥   I use Mac and Catalina
   - 🌋 Tailwindcss
   - ⚙️ StimulusJs
   - ⛏ PHP
