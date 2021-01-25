@@ -18,7 +18,7 @@
   - ⚓️ Docker
 
 - 🤪 Hobbies 
-  - 🚴🏻I love cycling and part of group cyclogist each weekend we do some cycling
+  - 🚴🏻 I love cycling and part of group cyclogist each weekend we do some cycling
   - 🪂 Travelling
   - 🧗 Adventures
   - 🚶🏾 Walking
