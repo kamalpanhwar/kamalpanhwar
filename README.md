@@ -6,6 +6,7 @@
 - Summary
 A result-driven, self-motivated and resourceful Senior Software Engineer with intensive industry experience in analysis, design, development, testing and the implementation of various offline, internet/web and cloud-based applications. Solution are based on but not limited to; Ruby on Rails, NodeJS, PHP, AWS, GraphQL, RESTful APIs, ReactJS, PostgreSQL, RabbitMQ and also enjoy collaborating on all stages of software development, getting exposure on multiple projects, designing process improvements to increase productivity.
 
+
 ![image](https://user-images.githubusercontent.com/4409408/112505854-ffc72800-8dae-11eb-9d00-61c696ac476e.png)
 
 
