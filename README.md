@@ -1,7 +1,7 @@
 ![doublemarket's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalpanhwar&show_icons=true&count_private=true)
 
 ### Hi there 👋
-- 🔭 I’m currently working on Project of LetsBuild assigned by Embrace-it
+- 🔭 I’m currently working with LiveLink Technology
 - 🌱 I’m currently learning Stimulus/ReactJS
 - 👯 I’m looking to collaborate on Projects of Ruby on Rails that helps people and humanity
 - 🤔 I’m looking for help with learning Architecture, Devops and Critical things for high intensive apps
