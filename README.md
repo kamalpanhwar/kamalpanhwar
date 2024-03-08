@@ -1,4 +1,3 @@
-![doublemarket's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalpanhwar&show_icons=true&count_private=true)
 
 ### Hi there 👋
 - 🔭 I’m currently working with LiveLink Technology
